@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mitu talukder
 #### Web Developar
-![Web Developar](https://media.licdn.com/dms/image/v2/D5616AQFa0qDd8xeXow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1737800172229?e=1743638400&v=beta&t=wIHhaknxF7cgJd5reCrH-HWhLSzfG48Vb5JkI6mKg6I)
+https://media.licdn.com/dms/image/v2/D5616AQEpAF_J4S7uiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737956581966?e=1743638400&v=beta&t=5N6YsWARCGSIh6NKEp_LclajXFZzGKwQwaozAgweoSo
 
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
